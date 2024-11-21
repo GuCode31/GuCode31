@@ -67,29 +67,3 @@
 [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/pt-br/)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br>
-
-## Linguagens mais usadas e alguns projetos:
-
-
-<div align= "center">
-<img class= "img" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rodrigofms&bg_color=000&border_color=30A3DC&title_color=ff8c00&text_color=FFF&hide_title=true&card_width=850" />
-</div>
-
-<br>
-
-<div align="center">
-<a href="https://github.com/Rodrigofms/calculadora-de-imposto-de-pessoa-fisica-e-juridica"> <img class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigofms&repo=calculadora-de-imposto-de-pessoa-fisica-e-juridica&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ff8c00&text_color=FFF" /> </a>
-<a href="https://github.com/Rodrigofms/estudo-sistema-crud"> <img class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigofms&repo=estudo-sistema-crud&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ff8c00&text_color=FFF" /> </a>
-<a href="https://github.com/Rodrigofms/sistema-de-controle-interno"> <img class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigofms&repo=sistema-de-controle-interno&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ff8c00&text_color=FFF" /> </a>
-</div>
-
-<h2>  </h2>
-
-<br>
-
-<div align ="center";>
- <img class="img" width=400px weight =400px style="border-radius: 25px" src="https://media.tenor.com/N1cPFH4D9CMAAAAC/cat-sticker-line-sticker.gif" />
-</div>
-
-**<h3 align="center">Obrigado pela visita ^^</h3>**
